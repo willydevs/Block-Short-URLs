@@ -1,5 +1,5 @@
 === Block Guess 404 Redirect ===
-Contributors: seu_nome
+Contributors: Willy Elvis
 Tags: redirecionamento, 404, URL, WordPress
 Requires at least: 4.0
 Tested up to: 6.2
